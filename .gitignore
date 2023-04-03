@@ -1,0 +1,14 @@
+*.pyc
+*.aux
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.tex
+*.log
+*.out
+*.gz
+*.toc
+*.lof
+*.lot
